@@ -113,7 +113,7 @@
             #define GLuint64EXT GLuint64
             #define GL_BGRA_EXT GL_BGRA
         #else
-            #include <GL3/gl3.h>
+            #include <GL/gl.h>
         #endif
 
     #else
